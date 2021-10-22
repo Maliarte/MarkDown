@@ -236,3 +236,16 @@ Ou, em puro Markdown, mas perdendo o tamanho e a borda da imagem:
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)\
   
   :blue_heart:
+
+ 
+ ### Solar System Exploration, 1950s – 1960s
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
