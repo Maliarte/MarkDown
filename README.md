@@ -6,9 +6,11 @@ usando um editor de texto simples.
 
 :smiling_face_with_three_hearts: repositório origem: [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+Saiba mais: [everything-is-local](https://git-scm.com/book/pt-br/)
 
-### Pretende ser uma referência rápida e uma demonstração. Para obter informações mais completas, consulte as especificações originais de John Gruber e a página de informações do Markdown com sabor do Github.
 
+#### Para obter informações mais completas, consulte as especificações originais de John Gruber e a página de informações do Markdown com sabor do Github.
+##
 
 Sumário
 
